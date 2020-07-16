@@ -62,6 +62,7 @@ class App extends Component {
           </button>
 
           <input
+            placeholder=' Type a "Todo Note" here '
             className="textInput"
             type="text"
             ref={(input) => {

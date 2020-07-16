@@ -9,6 +9,7 @@ body {
 }
 body {
   background: #f1f1f1;
+  /* background: black; */
 }
 #root {
   width: 100%;
@@ -24,7 +25,8 @@ body {
   font-weight: bold;
   font-style: italic;
   color: #f1f1f1;
-  background: #3367d6;
+  /* background: #3367d6; */
+  background: orange;
   padding: 40px;
 }
 /* The note */
@@ -57,7 +59,9 @@ body {
   font-size: 28px;
   font-weight: bold;
   color: #f1f1f1;
-  background: #3367d6;
+  /* background: #3367d6; */
+  background: orange;
+  outline: none;
   cursor: pointer;
   box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.8);
@@ -77,7 +81,8 @@ body {
   padding: 0 20px;
   border: none;
   outline: none;
-  background: #2850a7;
+  /* background: #2850a7; */
+  background: orange;
   font-size: 16px;
   color: #f1f1f1;
 }
