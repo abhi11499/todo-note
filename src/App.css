@@ -21,7 +21,7 @@ body {
 }
 /* The header */
 .header {
-  font-size: 22px;
+  font-size: 30px;
   font-weight: bold;
   font-style: italic;
   color: #f1f1f1;
@@ -83,6 +83,6 @@ body {
   outline: none;
   /* background: #2850a7; */
   background: orange;
-  font-size: 16px;
+  font-size: 24px;
   color: #f1f1f1;
 }
